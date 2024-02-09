@@ -27,6 +27,13 @@ __09/02__
 - Container 
 - Deploy de aplicações Web em Cloud 
 
+### Metodologia
+
+- Apresentação de conceito e implementação de forma interativa e cíclica.
+- Criação de projetos no Github.
+- Material disponível neste repositório.
+- A cada aula o conteúdo é registrado neste repositório.
+
 ### Requisitos
 
 - Github Account
@@ -113,16 +120,6 @@ __09/02__
     - [Data/hora](https://www.devmedia.com.br/trabalhando-com-as-classes-date-calendar-e-simpledateformat-em-java/27401)
     - [Data/hora](https://www.w3schools.com/java/java_date.asp)
     - [Data/hora](https://www.baeldung.com/java-8-date-time-intro)
-
-### Metodologia
-
-- Apresentação de conceito e implementação de forma interativa e cíclica.
-- Criação de projetos no Github.
-- Material disponível neste repositório.
-- A cada aula o conteúdo é registrado neste repositório.
-
-
-
 
 
 #### Cursos Alura
