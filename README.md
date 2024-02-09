@@ -67,6 +67,7 @@ __09/02__
     - Oracle
     - [Oracle x Java: Type mapping](https://docs.oracle.com/cd/A97335_02/apps.102/a83724/basic3.htm)
     - [Spring profile/data.sql](https://www.baeldung.com/spring-boot-data-sql-and-schema-sql)
+    - [Migration](https://www.baeldung.com/database-migrations-with-flyway)
 
 - Software
     - [Spring Framework](/conceitos/spring.md)
