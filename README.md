@@ -16,7 +16,7 @@ __09/02__
 
 - Apresentações
 - O curso
-- Setups inicial
+- Setups iniciais
 
 ----
 
@@ -120,27 +120,34 @@ __09/02__
 
 - Java
     - [Java Method Reference](https://www.baeldung.com/java-method-references)         
-    - [Data/hora](https://www.devmedia.com.br/trabalhando-com-as-classes-date-calendar-e-simpledateformat-em-java/27401)
-    - [Data/hora](https://www.w3schools.com/java/java_date.asp)
-    - [Data/hora](https://www.baeldung.com/java-8-date-time-intro)
+    - [Data/hora calendar/simpledateformat](https://www.devmedia.com.br/trabalhando-com-as-classes-date-calendar-e-simpledateformat-em-java/27401)
+    - [Data/hora date](https://www.w3schools.com/java/java_date.asp)
+    - [Data/hora datetime](https://www.baeldung.com/java-8-date-time-intro)
 
+### Cursos Alura
 
-#### Cursos Alura
+#### Java e Persistencia
+- [jdbc-dao-persistenci](https://cursos.alura.com.br/course/jdbc-dao-persistencia)
+- [java-jpa-consultas-avancadas-performance-modelos-complexo](https://cursos.alura.com.br/course/java-jpa-consultas-avancadas-performance-modelos-complexos)
+- [servlets-fundamentos-programacao-web-jav](https://cursos.alura.com.br/course/servlets-fundamentos-programacao-web-java)
+- [servlet-autenticacao-autorizacao-mvc](https://cursos.alura.com.br/course/servlet-autenticacao-autorizacao-mvc)
 
-- (https://cursos.alura.com.br/course/jdbc-dao-persistencia)
-- (https://cursos.alura.com.br/course/java-jpa-consultas-avancadas-performance-modelos-complexos)
-- (https://cursos.alura.com.br/course/servlets-fundamentos-programacao-web-java)
-- (https://cursos.alura.com.br/course/servlet-autenticacao-autorizacao-mvc)
-- (https://cursos.alura.com.br/course/microsservicos-padroes-projeto)
-- (https://cursos.alura.com.br/course/fundamentos-microsservicos-aprofundando-conceitos)
-- (https://cursos.alura.com.br/course/microsservicos-implementando-java-spring)
-- (https://cursos.alura.com.br/course/spring-boot-3-desenvolva-api-rest-java)
-- (https://cursos.alura.com.br/course/spring-boot-aplique-boas-praticas-proteja-api-rest)
-- (https://cursos.alura.com.br/course/microservices-spring-cloud-service-registry-config-server)
-- (https://cursos.alura.com.br/course/microsservicos-pratica-iac-cdk-deploy-aws)
+#### Microserviços
+- [microsservicos-padroes-projeto](https://cursos.alura.com.br/course/microsservicos-padroes-projeto)
+- [fundamentos-microsservicos-aprofundando-conceitos](https://cursos.alura.com.br/course/fundamentos-microsservicos-aprofundando-conceitos)
+- [microsservicos-implementando-java-spring](https://cursos.alura.com.br/course/microsservicos-implementando-java-spring)
+- [spring-boot-3-desenvolva-api-rest-java](https://cursos.alura.com.br/course/spring-boot-3-desenvolva-api-rest-java)
+- [spring-boot-aplique-boas-praticas-proteja-api-rest](https://cursos.alura.com.br/course/spring-boot-aplique-boas-praticas-proteja-api-rest)
+- [microservices-spring-cloud-service-registry-config-server](https://cursos.alura.com.br/course/microservices-spring-cloud-service-registry-config-server)
+- [microsservicos-pratica-iac-cdk-deploy-aws](https://cursos.alura.com.br/course/microsservicos-pratica-iac-cdk-deploy-aws)
 
+#### Transformção Digital
+- [formacao-transformacao-digital](https://www.alura.com.br/formacao-transformacao-digital)
 
-#### Links úteis
+#### Docker
+- [docker-criando-gerenciando-containers](https://alura.com.br/curso-online-docker-criando-gerenciando-containers)
+
+### Links úteis
 
 - [eBooks](https://www.kdnuggets.com/2015/09/free-data-science-books.html)
 
