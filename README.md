@@ -52,7 +52,7 @@ __09/02__
     - [Git Client](https://www.alura.com.br/conteudo/git-github-controle-de-versao--amp)
     - [Git](/conceitos/git.md)
     - [Git/Artigo](https://www.alura.com.br/artigos/comecando-com-git-aprendendo-versionar)
-    - [Git/Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf_)
+    - [Git/Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
     - [Gitflow](https://www.atlassian.com/br/git/tutorials/comparing-workflows/gitflow-workflow)
     - [Markdown](https://dillinger.io/)
 
