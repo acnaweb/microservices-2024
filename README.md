@@ -8,7 +8,7 @@
 
 | Repositório | 
 |----|
-| [Repositório de conteúdos e acompanhemnto de aulas](https://github.com/acnaweb/microservices-2024) |
+| [Repositório de conteúdos e acompanhamento de aulas](https://github.com/acnaweb/microservices-2024) |
 
 ----
 
