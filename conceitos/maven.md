@@ -1,7 +1,7 @@
 
 #### Maven
 
-> Gerenciamento de de dependencias
+> Gerenciamento de de dependências
 
 - [Maven CLI]
 - [Maven Repository]

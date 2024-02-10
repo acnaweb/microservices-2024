@@ -1,11 +1,11 @@
 #### MVC (Model-View-Controller)
 
-O Design Patter [Front Controller]
+O Design Pattern [Front Controller]
 
 Definição de [MVC]
 - Model: Define o modelo ou domínio da aplicação
     -  Regras de negócios 
-    -  Persistencia de dados
+    -  Persistência de dados
 - View: Interação com usuário
 - Controller: Componente intermediário entre View e Model
     - Recebe requisições (requests)
