@@ -141,7 +141,7 @@ __09/02__
 - [microservices-spring-cloud-service-registry-config-server](https://cursos.alura.com.br/course/microservices-spring-cloud-service-registry-config-server)
 - [microsservicos-pratica-iac-cdk-deploy-aws](https://cursos.alura.com.br/course/microsservicos-pratica-iac-cdk-deploy-aws)
 
-#### Transformção Digital
+#### Transformação Digital
 - [formacao-transformacao-digital](https://www.alura.com.br/formacao-transformacao-digital)
 
 #### Docker
@@ -150,6 +150,10 @@ __09/02__
 ### Links úteis
 
 - [eBooks](https://www.kdnuggets.com/2015/09/free-data-science-books.html)
+
+### A Classificar
+
+![GitOps Workflow - Simplified Visual Guide](/assets/img/gitops-workflow.webp "GitOps Workflow - Simplified Visual Guide")
 
 
 
