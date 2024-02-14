@@ -16,7 +16,6 @@ __09/02__
 
 - Apresentações
 - O curso
-- Setups iniciais
 
 ----
 
@@ -151,10 +150,4 @@ __09/02__
 
 - [eBooks](https://www.kdnuggets.com/2015/09/free-data-science-books.html)
 
-### A Classificar
-
-![GitOps Workflow - Simplified Visual Guide](/assets/img/gitops-workflow.webp "GitOps Workflow - Simplified Visual Guide")
-
-
-
-
+### [Sem categoria](/sem_categoria.md)
