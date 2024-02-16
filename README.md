@@ -150,4 +150,4 @@ __09/02__
 
 - [eBooks](https://www.kdnuggets.com/2015/09/free-data-science-books.html)
 
-### [Sem categoria](/sem_categoria.md)
+### [Sem categoria](/conceitos/sem_categoria.md)
