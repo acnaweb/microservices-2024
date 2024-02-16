@@ -14,7 +14,10 @@
 
 __16/02__
 
-[Spring](/conceitos/spring.md)
+- [Spring](/conceitos/spring.md)
+- [Maven](/conceitos/maven.md)
+- Git
+- Azure 
 
 __09/02__
 
