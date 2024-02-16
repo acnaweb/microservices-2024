@@ -1,6 +1,6 @@
 #### Spring Initialzr 
 
-[Spring Initialzr] é utilizado para criar projetos com Sprint Boot
+[Spring Initialzr](https://start.spring.io/) é utilizado para criar projetos com Sprint Boot
 
 ![Spring Initializr - Setup](/assets/img/spring_initializar_setup.png "Spring Initializr - Setup")
 
