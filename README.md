@@ -9,6 +9,9 @@
 | Repositório | 
 |----|
 | [Repositório de conteúdos e acompanhamento de aulas](https://github.com/acnaweb/microservices-2024) |
+| [Ping](https://github.com/acnaweb/ping-2024) |
+
+
 
 ----
 
