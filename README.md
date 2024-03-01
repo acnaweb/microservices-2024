@@ -19,6 +19,7 @@ __01/03__
     - [Docker](https://www.docker.com/)
     - [Docker/Playground](https://labs.play-with-docker.com/)
     - [Docker Hub](https://hub.docker.com/)
+    - [Docker Cheatsheet](https://docs.docker.com/get-started/docker_cheatsheet.pdf)
 
 
 ----
