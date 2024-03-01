@@ -11,6 +11,14 @@
 | [Repositório de conteúdos e acompanhamento de aulas](https://github.com/acnaweb/microservices-2024) |
 | [Ping](https://github.com/acnaweb/ping-2024) |
 
+----
+
+__01/03__
+
+- Conteinerização
+    - [Docker](https://www.docker.com/)
+    - [Docker/Playground](https://labs.play-with-docker.com/)
+    - [Docker Hub](https://hub.docker.com/)
 
 
 ----
