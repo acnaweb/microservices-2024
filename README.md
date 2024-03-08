@@ -9,19 +9,25 @@
 | Repositório | 
 |----|
 | [Repositório de conteúdos e acompanhamento de aulas](https://github.com/acnaweb/microservices-2024) |
-| [Ping](https://github.com/acnaweb/ping-2024) |
+| [Ping](https://github.com/acnaweb/ping) |
+
+
+----
+
+__08/03__
+
+- Aviso de [checkpoint 1](/checkpoints/checkpoint1-sem1.md)
+- [Docker Hub](https://hub.docker.com/)
+- [Dockerfile]
 
 ----
 
 __01/03__
 
 - Conteinerização
-    - [Docker](https://www.docker.com/)
-    - [Docker/Playground](https://labs.play-with-docker.com/)
-    - [Docker Hub](https://hub.docker.com/)
+    - [Docker](https://www.docker.com/)        
     - [Docker Cheatsheet](https://docs.docker.com/get-started/docker_cheatsheet.pdf)
-
-
+    - [Docker/Playground](https://labs.play-with-docker.com/)
 ----
 
 __23/02__
