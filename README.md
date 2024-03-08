@@ -17,8 +17,23 @@
 __08/03__
 
 - Aviso de [checkpoint 1](/checkpoints/checkpoint1-sem1.md)
+- Maven
+
+pom.xml
+```
+<build>
+        <finalName>app</finalName>
+        ....
+</build>        
+```                
 - [Docker Hub](https://hub.docker.com/)
-- [Dockerfile]
+- [Dockerfile](https://docs.docker.com/reference/dockerfile/)
+- Markdown
+    - [Guia](https://abhiappmobiledeveloper.medium.com/guide-to-writing-on-readme-md-markdown-file-for-github-project-8aad4e4e2a15)
+    - [Emojis](https://gist.github.com/rxaviers/7360908)
+    - [Table](https://www.tablesgenerator.com/markdown_tables)
+    - [Editor online](https://dillinger.io/)
+  
 
 ----
 
