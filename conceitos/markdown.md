@@ -11,11 +11,11 @@ A aplicação X é uma API de integração de dados
 
 ## Instalação
 
-### Download
+#### Download
 
 wwww.linkparadonwload.com/item
 
-### Instalação
+#### Instalação
 
 ```
 cd pasta
@@ -25,27 +25,28 @@ instalador.exe
 ## Execução
 
 
-### Docker
+#### Docker
+
 ```
 docker run -d -p 8080:8080 minhaimagen:tag
 ```
 
-### Menu iniciar
+#### Menu iniciar
 
 > Menu Iniciar: Selecionar e clicar em Aplicação X
 
-### Navegação
+#### Navegação
 
 http://localhost:8080
 
 
 ## Features (Funcionalidades)
 
-### Upload de arquivos
+#### Upload de arquivos
 
 > __Lorem Ipsum__ is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
 
-### Conversão de dados
+#### Conversão de dados
 
 > __Lorem Ipsum__ is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
 
