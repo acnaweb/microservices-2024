@@ -16,7 +16,7 @@
 
 __08/03__
 
-- Aviso de [checkpoint 1](/checkpoints/checkpoint1-sem1.md)
+- Aviso de [checkpoint 1](/checkpoints/checkpoint-1-sem1.md)
 - Maven
 
 pom.xml
