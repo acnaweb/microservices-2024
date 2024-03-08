@@ -32,8 +32,8 @@ Dependencias
 
 #### 2. (_1 ponto_) - Adicionar 3 Spring profiles: 
 
-> * dev - porta 8081
-> * stg - porta 8082
+> * dev - porta 8080
+> * stg - porta 8080
 > * prd - porta 8080
 
 #### 3. (_2 pontos_) - Implementar um endpoint GET ping.
