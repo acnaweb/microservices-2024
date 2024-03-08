@@ -15,21 +15,19 @@ A aplicação X é uma API de integração de dados de futebol.
 
 wwww.linkparadonwload.com/item
 
-### Instruções
-
-#### Executar o instalador
+### Instalação
 
 ```
 cd pasta
 instalador.exe
 ```
 
-## Execução da aplicação
-
+## Execução
 
 ```
 docker run -d -p 8080:8080 minhaimagen:tag
 ```
+ou
 
 > Menu Iniciar: Selecionar e clicar em Aplicação X
 
