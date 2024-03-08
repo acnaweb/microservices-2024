@@ -1,6 +1,6 @@
 # Aplicação X
 
-A aplicação X é uma API de integração de dados de futebol.
+A aplicação X é uma API de integração de dados 
 
 
 ## Pré-requisitos
