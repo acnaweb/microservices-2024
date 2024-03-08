@@ -33,6 +33,7 @@ pom.xml
     - [Emojis](https://gist.github.com/rxaviers/7360908)
     - [Table](https://www.tablesgenerator.com/markdown_tables)
     - [Editor online](https://dillinger.io/)
+    - [Exemplo](/conceitos/markdown.md)
   
 
 ----
