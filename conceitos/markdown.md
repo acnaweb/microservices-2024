@@ -13,7 +13,7 @@ A aplicação X é uma API de integração de dados
 
 #### Download
 
-wwww.linkparadonwload.com/item
+http://wwww.linkparadonwload.com/item
 
 #### Instalação
 
