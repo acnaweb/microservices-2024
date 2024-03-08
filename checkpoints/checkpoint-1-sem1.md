@@ -41,7 +41,7 @@ Dependencias
 Ao consumir o endpoint __/ping__ a aplicação deverá retornar:
 > - profile "dev" -> "Pong em dev" 
 > - profile "stg" -> "Pong em stg" 
-> - profile "prg" -> "Pong em prg" 
+> - profile "prd" -> "Pong em prd" 
 
 #### 4. (_3 pontos_) - Criar o respectivo Dockerfile
 
