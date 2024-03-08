@@ -24,12 +24,19 @@ instalador.exe
 
 ## Execução
 
+
+### Docker
 ```
 docker run -d -p 8080:8080 minhaimagen:tag
 ```
-ou
+
+### Menu iniciar
 
 > Menu Iniciar: Selecionar e clicar em Aplicação X
+
+### Navegação
+
+http://localhost:8080
 
 
 ## Features (Funcionalidades)
