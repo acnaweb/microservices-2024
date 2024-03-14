@@ -14,6 +14,12 @@
 
 ----
 
+__* 13/03__
+
+- [Docker Multi-stage](https://docs.docker.com/build/building/multi-stage/)
+
+----
+
 __08/03__
 
 - Aviso de [checkpoint 1](/checkpoints/checkpoint-1-sem1.md)
