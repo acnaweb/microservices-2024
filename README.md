@@ -134,7 +134,7 @@ __09/02__
 - MVC
     - [MVC](/conceitos/mvc.md)
     - Spring Boot MVC    
-    - [Thymeleaf](www.thymeleaf.org)
+    - [Thymeleaf](https://www.thymeleaf.org/)
 - Restful API
     - [API Rest](https://blog.betrybe.com/desenvolvimento-web/api-rest-tudo-sobre/)
     - JSON Server
