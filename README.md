@@ -18,6 +18,15 @@ __* 15/03__
 
 [Tutorial Bootstrap](https://www.youtube.com/watch?v=SmQMZ36hJJY&list=PLnDvRpP8Bnexu5wvxogy6N49_S5Xk8Cze)
 
+#### Repositório - Setup Padrão
+
+> - Create Spring Initializr
+> - Create repo
+> - Git init
+> - application.properties
+> - Docker Image
+> - pom.xml
+>	- build.finalName
 ----
 
 __* 13/03__
