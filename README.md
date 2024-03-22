@@ -9,16 +9,18 @@
 | Repositório | 
 |----|
 | [Repositório de conteúdos e acompanhamento de aulas](https://github.com/acnaweb/microservices-2024) |
+| [Thymeleaf](https://github.com/acnaweb/thymeleaf) |
 | [Ping](https://github.com/acnaweb/ping) |
 
+----
+
+__* 22/03__
 
 ----
 
 __* 15/03__
 
 [Tutorial Bootstrap](https://www.youtube.com/watch?v=SmQMZ36hJJY&list=PLnDvRpP8Bnexu5wvxogy6N49_S5Xk8Cze)
-
-https://we.tl/t-RWicCLYf3K
 
 #### Repositório - Setup Padrão
 
