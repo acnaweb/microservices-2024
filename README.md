@@ -16,6 +16,52 @@
 
 __* 22/03__
 
+### Database
+
+#### Adicionar dependencias
+
+```sh
+<dependency>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-data-jpa</artifactId>
+</dependency>
+```
+
+- Driver JDBC H2 - https://www.baeldung.com/spring-boot-h2-database
+- Driver JDBC Oracle
+
+#### Configurar BD
+* application-dev.properties
+  
+```sh
+spring.datasource.url=jdbc:h2:mem:testdb
+spring.datasource.driverClassName=org.h2.Driver
+spring.datasource.username=sa
+spring.datasource.password=password
+spring.jpa.database-platform=org.hibernate.dialect.H2Dialect
+spring.jpa.show-sql=true
+spring.h2.console.enabled=true
+spring.jpa.hibernate.ddl-auto=create
+spring.sql.init.mode=always
+spring.jpa.defer-datasource-initialization=true
+```
+* application-[stg/prg].properties
+
+```sh
+spring.datasource.url=jdbc:oracle:thin:@oracle.fiap.com.br:1521:orcl
+spring.datasource.driverClassName=oracle.jdbc.OracleDriver
+spring.datasource.username=pf1524
+spring.datasource.password=
+spring.jpa.database-platform=org.hibernate.dialect.Oracle10gDialect
+spring.jpa.show-sql=true
+spring.jpa.hibernate.ddl-auto=update
+```
+
+* Carga inicial de dados
+```sh
+spring.sql.init.data-locations=classpath:data-dev.sql
+```
+
 ----
 
 __* 15/03__
