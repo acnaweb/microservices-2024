@@ -11,14 +11,13 @@
 | [Repositório de conteúdos e acompanhamento de aulas](https://github.com/acnaweb/microservices-2024) |
 | [Thymeleaf](https://github.com/acnaweb/thymeleaf) |
 | [Ping](https://github.com/acnaweb/ping) |
-
-
+| [MVC RD](https://github.com/acnaweb/mvc-rh) |
 
 ----
 
 __* 05/04__
 
-* Projeto MVC-RH
+* Projeto MVC-RH | [MVC RD](https://github.com/acnaweb/mvc-rh) |
 
 ![](assets/img/mvc-rh.png)
 
