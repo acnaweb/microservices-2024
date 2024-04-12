@@ -54,19 +54,23 @@ Upload da imagem do docker hub do respectivo membro
 > - Comando "docker" para executar a aplicação a partir do docker hub do __respectivo membro__ com profile "stg"
 > - Comando "docker" para executar a aplicação a partir do docker hub do __respectivo membro__ com profile "prd"
 
-#### 6. (_0,5 ponto_) - Implementar as entidades de classe e tabelas de banco de dados no respectivo sistema gerenciador de banco de dados (SGBD).
+#### 6. (_7,5 pontos_) - Implementar as entidades de classe e tabelas de banco de dados no respectivo sistema gerenciador de banco de dados (SGBD).
 
-![](assets\img\mer-agenda.png)
+status_consulta: enum {AGENDADA, CANCELADA, REALIZADA}
+
+![](mer-agenda.png)
 
 ### Entregáveis
 
+> A validação da criação do banco de dados será realizada apenas pelo profile **"dev"**.
+
 #### 1. Github (para cada membro)
 
-Nome do repositorio: __fiap-checkpoint1__
+Nome do repositorio: __fiap-checkpoint2__
 
 #### 2. Docker hub (para cada membro)
 
-Nome do repositorio: __fiap-checkpoint1__
+Nome do repositorio: __fiap-checkpoint2__
 
 #### 3. Arquivo para área de entrega de trabalhos
 
@@ -74,8 +78,8 @@ Arquivo txt contendo as seguintes informações no exemplo abaixo:
 
 | Aluno(a) | Github |
 | --- | --- |
-| Maria | https://github.com/maria/fiap-checkpoint1 |
-| João | https://github.com/joao/fiap-checkpoint1 |
-| Ana | https://github.com/ana/fiap-checkpoint1 |
+| Maria | https://github.com/maria/fiap-checkpoint2 |
+| João | https://github.com/joao/fiap-checkpoint2 |
+| Ana | https://github.com/ana/fiap-checkpoint2 |
 
 
