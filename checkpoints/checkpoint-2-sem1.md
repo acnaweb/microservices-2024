@@ -56,7 +56,7 @@ Upload da imagem do docker hub do respectivo membro
 
 #### 6. (_0,5 ponto_) - Implementar as entidades de classe e tabelas de banco de dados no respectivo sistema gerenciador de banco de dados (SGBD).
 
-![](docs\docs\src\agenda\agenda.png)
+![](assets\img\mer-agenda.png)
 
 ### Entregáveis
 
