@@ -4,7 +4,7 @@
 
 ### Instruções Gerais
 
-- Prazo de entrega: __19/03__.
+- Prazo de entrega: __19/04__.
 - O checkpoint deverá ser desenvolvido em até 3 pessoas.
 - Cada membro deve ter o projeto em seu próprio repositório no Github até a data de entrega.
 
