@@ -21,7 +21,7 @@ __* 12/04__
 
 * Projeto [MVC RH](https://github.com/acnaweb/mvc-rh) |
 
-* [Checkpoint 2](checkpoints\checkpoint-2-sem1.md)
+* [Checkpoint 2](checkpoints/checkpoint-2-sem1.md)
 
 
 __* 05/04__
