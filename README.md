@@ -24,8 +24,9 @@ __* 03/05__
 * Web
 
     - https://www.w3schools.com/icons/default.asp
-    -   <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
-
+```
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
+```
      
 
 __* 26/04__
