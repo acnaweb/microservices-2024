@@ -21,6 +21,11 @@ __* 03/05__
     
     - Navegação por fragmentos
 
+* Web
+
+    - https://www.w3schools.com/icons/default.asp
+     
+
 __* 26/04__
 
 * Projeto [MVC RH](https://github.com/acnaweb/mvc-rh) |
@@ -29,8 +34,7 @@ __* 26/04__
 
 * [Checkpoint 3](checkpoints/checkpoint-3-sem1.md)
 
-__* 12/04 e __
-
+__* 12/04 e 19/04__
 
 * Projeto [MVC RH](https://github.com/acnaweb/mvc-rh) |
 
