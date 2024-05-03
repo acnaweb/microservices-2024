@@ -15,8 +15,21 @@
 
 ----
 
+__* 03/05__
 
-__* 12/04__
+* Projeto [MVC RH](https://github.com/acnaweb/mvc-rh) |
+    
+    - Navegação por fragmentos
+
+__* 26/04__
+
+* Projeto [MVC RH](https://github.com/acnaweb/mvc-rh) |
+
+    - Criação de conteúdos de views
+
+* [Checkpoint 3](checkpoints/checkpoint-3-sem1.md)
+
+__* 12/04 e __
 
 
 * Projeto [MVC RH](https://github.com/acnaweb/mvc-rh) |
