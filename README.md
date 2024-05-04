@@ -27,7 +27,10 @@ __* 03/05__
 ```
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
 ```
-     
+
+```
+<html xmlns:th="http://www.thymeleaf.org">
+```     
 
 __* 26/04__
 
