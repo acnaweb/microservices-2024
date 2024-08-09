@@ -228,7 +228,7 @@ __09/02__
 ### Requisitos
 
 - Github Account
-- Azure Account
+- Azure Account (https://portal.azure.com/)
 - Docker Hub Account
 - Java 17
 - Git
