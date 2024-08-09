@@ -13,6 +13,27 @@
 | [Ping](https://github.com/acnaweb/ping) |
 | [MVC RH](https://github.com/acnaweb/mvc-rh) |
 
+### 2º Semestre
+
+__09/08__
+
+- [ ] HTTP 
+    - [Protocolo HTTP Overview](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Overview)
+- [ ] JSON
+    - [JSON](https://www.json.org/json-en.html)
+    - [JSON Viewer](http://jsonviewer.stack.hu/) 
+- [ ] JSON Server
+    - NodeJS [NVM](https://github.com/nvm-sh/nvm)
+    - [NodeJS](https://nodejs.org/en/download/) 
+    - [JSON Server](https://www.npmjs.com/package/json-server)
+- [ ] API Client
+    - [Postman](https://www.postman.com/)
+- APIs Públicas
+    -  [Via CEP](https://viacep.com.br/)
+    -  [SPTrans/API do Olho Vivo](https://www.sptrans.com.br/desenvolvedores/)
+      
+### 1º Semestre
+
 ----
 
 __* 03/05__
