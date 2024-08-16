@@ -15,6 +15,10 @@
 
 ### 2º Semestre
 
+__16/08__
+
+![](assets\img\api-ecommerce.png)
+
 __09/08__
 
 - [ ] HTTP 
