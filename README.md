@@ -17,7 +17,7 @@
 
 __16/08__
 
-![](assets\img\api-ecommerce.png)
+![](/assets/img/api-ecommerce.png)
 
 __09/08__
 
