@@ -12,7 +12,7 @@
 | [Thymeleaf](https://github.com/acnaweb/thymeleaf) |
 | [Ping](https://github.com/acnaweb/ping) |
 | [MVC RH](https://github.com/acnaweb/mvc-rh) |
-| [E-commerce]([https://github.com/acnaweb/mvc-rh](https://github.com/acnaweb/ecommerce)) |
+| [E-commerce](https://github.com/acnaweb/ecommerce) |
 
 ### 2º Semestre
 
