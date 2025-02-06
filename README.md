@@ -216,12 +216,23 @@ __09/02__
 
 ### Objetivos do Curso
 
-- Desenvolver aplicação Web MVC
-- Desenvolver aplicação Web Microserviços    
-- Implementar API Gateway    
-- Implantar CI/CD   
-- Container 
-- Deploy de aplicações Web em Cloud 
+- Desenvolver aplicação RESTful API
+    - Spring Boot
+    - Spring Data
+    - Authorization/Authentication
+    - Caching
+    - Pagination and Sorting
+    - Unit Test
+    - OpenAPI - Swagger
+    - Profiles: dev/stg/prd
+- Docker: Container
+- Deploy: Cloud Azure
+
+### Extras
+
+- GitHub: CI/CD
+- API Gateway
+- Event Driven: Kafka
 
 ### Metodologia
 
